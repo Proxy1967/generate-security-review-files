@@ -1,5 +1,11 @@
-# generate-md-files
+# Generate Notes.md and Issues.md files for security reviews
+
+## How to use
+To use anywhere with command `genmdfiles.sh` do
+- Clone to Scripts map
+- Add `export PATH=$PATH:~/Scripts` to .bashrc
+
 ## TODO
-- Add CodeHawks Templates ✔️
-- Add GasOpt Template
+- Add CodeHawks templates ✔️
+- Add better GasOpt template
 - Refine Notes.md
