@@ -24,7 +24,14 @@ Detailed description of the impact of this finding.
 ## Proof of Concept
 Provide direct links to all referenced code in GitHub. Add screenshots, logs, or any other relevant proof that illustrates the concept.
 ## Tools Used
-## Recommended Mitigation Steps
+## Recommended Mitigation Steps\n
+CodeHawks:
+## [H-01]
+## Summary
+## Vulnerability Details
+## Impact
+## Tools Used
+## Recommendations
 
 # Med\n
 Sherlock:
@@ -42,9 +49,16 @@ Detailed description of the impact of this finding.
 ## Proof of Concept
 Provide direct links to all referenced code in GitHub. Add screenshots, logs, or any other relevant proof that illustrates the concept.
 ## Tools Used
-## Recommended Mitigation Steps
+## Recommended Mitigation Steps\n
+CodeHawks:
+## [M-01]
+## Summary
+## Vulnerability Details
+## Impact
+## Tools Used
+## Recommendations
 
-# Low and Non-Critical Template\n
+# Low and Non-Critical Template - Code4rena\n
 ### [Low Risk](#low-risk-1)\n
 | Total Low Risk Issues | X |
 |:--:|:--:|\n
