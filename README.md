@@ -9,3 +9,4 @@ To use anywhere with command `genmdfiles.sh` do
 - Add CodeHawks templates ✔️
 - Add better GasOpt template
 - Refine Notes.md
+- Add if statements for different platforms
