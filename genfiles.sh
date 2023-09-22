@@ -84,4 +84,11 @@ CodeHawks:
 ### [NC-02] XXX\n
 ### [NC-03] XXX
 
-# GasOpt" > Issues.md
+# GasOpt
+### Gas Optimizations
+
+Total **X instances** over **X issues** with **X** gas saved:
+
+|ID|Issue|Instances|Gas saved|
+|:--:|:---|:--:|:--:|
+" > Issues.md
