@@ -14,7 +14,7 @@ To use anywhere with command `genfiles.sh`:
 - Add if statements for different platforms ✔️
 - Refine Notes.md ✔️
 - Add Immunefi template ✔️
-- Make function generate_notes() ✔️
-- Make function generate_issues() ✔️
+- Make function `generate_notes()` ✔️
+- Make function `generate_issues()` ✔️
 - Add HatsFinance template
 
