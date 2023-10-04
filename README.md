@@ -17,4 +17,3 @@ To use anywhere with command `genfiles.sh`:
 - Make function `generate_notes()` ✔️
 - Make function `generate_issues()` ✔️
 - Add HatsFinance template
-
