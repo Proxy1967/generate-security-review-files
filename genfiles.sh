@@ -17,11 +17,20 @@ echo -e "# Smart Contracts
 ### External & public functions
 
 - functionName()
+  - WhoCanCallIt
   - WhatItDoes
+  - DifferentScenariosItCanBeCalledIn
+  - HowIsItConnectedToOtherFunctions
 - functionName()
+  - WhoCanCallIt
   - WhatItDoes
+  - DifferentScenariosItCanBeCalledIn
+  - HowIsItConnectedToOtherFunctions
 - functionName()
+  - WhoCanCallIt
   - WhatItDoes
+  - DifferentScenariosItCanBeCalledIn
+  - HowIsItConnectedToOtherFunctions
 
 ### State variables
 
