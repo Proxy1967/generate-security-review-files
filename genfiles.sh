@@ -18,17 +18,17 @@ echo -e "# Smart Contracts
 
 - functionName()
   - WhoCanCallIt
-  - WhatItDoes
+  - WhatItDoesAndIsItDoneCorrectly
   - DifferentScenariosItCanBeCalledIn
   - HowIsItConnectedToOtherFunctions
 - functionName()
   - WhoCanCallIt
-  - WhatItDoes
+  - WhatItDoesAndIsItDoneCorrectly
   - DifferentScenariosItCanBeCalledIn
   - HowIsItConnectedToOtherFunctions
 - functionName()
   - WhoCanCallIt
-  - WhatItDoes
+  - WhatItDoesAndIsItDoneCorrectly
   - DifferentScenariosItCanBeCalledIn
   - HowIsItConnectedToOtherFunctions
 
@@ -36,15 +36,12 @@ echo -e "# Smart Contracts
 
 - VariableName
   - VariableType
-  - VariablePurpose
   - InformationVariableHolds
 - VariableName
   - VariableType
-  - VariablePurpose
   - InformationVariableHolds
 - VariableName
   - VariableType
-  - VariablePurpose
   - InformationVariableHolds
 
 ## ContractName
@@ -52,25 +49,31 @@ echo -e "# Smart Contracts
 ### External & public functions
 
 - functionName()
-  - WhatItDoes
+  - WhoCanCallIt
+  - WhatItDoesAndIsItDoneCorrectly
+  - DifferentScenariosItCanBeCalledIn
+  - HowIsItConnectedToOtherFunctions
 - functionName()
-  - WhatItDoes
+  - WhoCanCallIt
+  - WhatItDoesAndIsItDoneCorrectly
+  - DifferentScenariosItCanBeCalledIn
+  - HowIsItConnectedToOtherFunctions
 - functionName()
-  - WhatItDoes
+  - WhoCanCallIt
+  - WhatItDoesAndIsItDoneCorrectly
+  - DifferentScenariosItCanBeCalledIn
+  - HowIsItConnectedToOtherFunctions
 
 ### State variables
 
 - VariableName
   - VariableType
-  - VariablePurpose
   - InformationVariableHolds
 - VariableName
   - VariableType
-  - VariablePurpose
   - InformationVariableHolds
 - VariableName
   - VariableType
-  - VariablePurpose
   - InformationVariableHolds
 " > Notes.md
 }
