@@ -6,11 +6,15 @@ echo "- Generated Notes.md"
 echo -e "# Smart Contracts
 
 - ContractName
-  - YourDescriptionOfTheContract
+  - DescriptionOfTheContract
 - ContractName
-  - YourDescriptionOfTheContract
+  - DescriptionOfTheContract
 - ContractName
-  - YourDescriptionOfTheContract
+  - DescriptionOfTheContract
+
+## Q&A
+
+-
 
 ## ContractName
 
