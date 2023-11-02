@@ -20,8 +20,6 @@ echo -e "# Smart Contracts
 
 - Sequence:
 
-- StateVariables:
-
 - Q&A:
 
   - Question
@@ -31,8 +29,6 @@ echo -e "# Smart Contracts
 
 - Sequence:
 
-- StateVariables:
-
 - Q&A:
 
   - Question
@@ -41,8 +37,6 @@ echo -e "# Smart Contracts
 3. ProcessName
 
 - Sequence:
-
-- StateVariables:
 
 - Q&A:
 
