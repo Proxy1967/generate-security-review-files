@@ -7,78 +7,47 @@ echo -e "# Smart Contracts
 
 - ContractName
   - DescriptionOfTheContract
+
 - ContractName
   - DescriptionOfTheContract
+
 - ContractName
   - DescriptionOfTheContract
 
-## Q&A
+# Processes
 
--
+1. ProcessName
 
-## ContractName
+- Sequence:
 
-### External & public functions
+- StateVariables:
 
-- functionName()
-  - WhoCanCallIt
-  - WhatItDoesAndIsItDoneCorrectly
-  - DifferentScenariosItCanBeCalledIn
-  - HowIsItConnectedToOtherFunctions
-- functionName()
-  - WhoCanCallIt
-  - WhatItDoesAndIsItDoneCorrectly
-  - DifferentScenariosItCanBeCalledIn
-  - HowIsItConnectedToOtherFunctions
-- functionName()
-  - WhoCanCallIt
-  - WhatItDoesAndIsItDoneCorrectly
-  - DifferentScenariosItCanBeCalledIn
-  - HowIsItConnectedToOtherFunctions
+- Q&A:
 
-### State variables
+  - Question
+    - Answer
 
-- VariableName
-  - VariableType
-  - InformationVariableHolds
-- VariableName
-  - VariableType
-  - InformationVariableHolds
-- VariableName
-  - VariableType
-  - InformationVariableHolds
+2. ProcessName
 
-## ContractName
+- Sequence:
 
-### External & public functions
+- StateVariables:
 
-- functionName()
-  - WhoCanCallIt
-  - WhatItDoesAndIsItDoneCorrectly
-  - DifferentScenariosItCanBeCalledIn
-  - HowIsItConnectedToOtherFunctions
-- functionName()
-  - WhoCanCallIt
-  - WhatItDoesAndIsItDoneCorrectly
-  - DifferentScenariosItCanBeCalledIn
-  - HowIsItConnectedToOtherFunctions
-- functionName()
-  - WhoCanCallIt
-  - WhatItDoesAndIsItDoneCorrectly
-  - DifferentScenariosItCanBeCalledIn
-  - HowIsItConnectedToOtherFunctions
+- Q&A:
 
-### State variables
+  - Question
+    - Answer
 
-- VariableName
-  - VariableType
-  - InformationVariableHolds
-- VariableName
-  - VariableType
-  - InformationVariableHolds
-- VariableName
-  - VariableType
-  - InformationVariableHolds
+3. ProcessName
+
+- Sequence:
+
+- StateVariables:
+
+- Q&A:
+
+  - Question
+    - Answer
 " > Notes.md
 }
 
