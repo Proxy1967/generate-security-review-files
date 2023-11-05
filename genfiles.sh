@@ -14,34 +14,17 @@ echo -e "# Smart Contracts
 - ContractName
   - DescriptionOfTheContract
 
+# Attack Vectors
+
+-
+
 # Processes
 
-1. ProcessName
+-
 
-- Sequence:
+# Questions & Answers
 
-- Q&A:
-
-  - Question
-    - Answer
-
-2. ProcessName
-
-- Sequence:
-
-- Q&A:
-
-  - Question
-    - Answer
-
-3. ProcessName
-
-- Sequence:
-
-- Q&A:
-
-  - Question
-    - Answer
+-
 " > Notes.md
 }
 
