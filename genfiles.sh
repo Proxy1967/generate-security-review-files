@@ -25,6 +25,11 @@ echo -e "# Smart Contracts
 # Questions & Answers
 
 -
+
+# Analysis Report Notes (Code4rena only)
+
+- Read bot findings and add notes from them
+
 " > Notes.md
 }
 
@@ -104,12 +109,69 @@ Provide direct links to all referenced code in GitHub. Add screenshots, logs, or
 
 Total **X instances** over **X issues** with **X** gas saved:
 
-|ID|Issue|Instances|Gas saved|
-|:--:|:---|:--:|:--:|
+| ID | Issue | Instances | Gas saved |
+| :--: | :--- | :--: | :--: |
 | [G-01](#g-01...) | XXX | X | X |
 
 ## [G-01] Title
 ## [G-02] Title
+
+# Analysis Report
+
+## Approach taken in evaluating the codebase
+
+A top-down approach was used to understand the protocol codebase. 
+Focusing first on understanding what problem the protocol is trying to solve, leveraging documentation and skimming through functions in the primary smart contracts.
+Following this foundational understanding, different attack vectors were identified and used to scrutinize the codebase of the protocol.
+Finally, the interactions between different actors and the codebase was examined. 
+This encompassed an exploration of how various participants within the protocol engage with the underlying code, ensuring a thorough understanding of user dynamics.
+
+## Arhitecture & Codebase quality
+
+- Overall opinions on the architecture / structure / complexity of the codebase
+
+### Smart Contracts
+
+- Add description from notes
+
+- Code readability for each contract:
+  - https://docs.soliditylang.org/en/v0.8.23/layout-of-source-files.html
+  - https://docs.soliditylang.org/en/v0.8.23/structure-of-a-contract.html
+  - Variables - descriptive names, structure, minimize storage variables
+  - Functions - descriptive names, small, does one thing / no hidden things, error handling, no repeating, avoid for loops if possible
+  - Comments - no redundant, misleading, noise comments, use NatSpec
+  - Boundaries - address(0), uint256(0), 1 wei inputs (minimum size inputs - DOS), etc.
+
+### Attack Vectors and Risks
+
+**Smart Contract Attack Vectors**
+
+- Add description from notes
+
+**Centralization and Admin Risks**
+
+- Admin risks, Owners, Multisig?, Timelocks?
+
+- Recommendation
+
+**Systemic Risks**
+
+- Integrations with different protocols, Monitoring, Dependencies
+
+- Recommendation
+
+### Smart Contract Tests
+
+- Thoughts on Unit tests, Fuzz tests, Invariant tests, Formal verification tests, their structure and coverage
+
+- Recommendation
+
+### Protocol Documentation
+
+- Thoughts about protocol documentation
+
+- Recommendation
+
 " > Issues.md
 
 # Sherlock
