@@ -3,32 +3,31 @@
 generate_notes() {
 echo "- Generated Notes.md"
 
-echo -e "# Smart Contracts
+echo -e "# ContractName
 
-- ContractName
-  - DescriptionOfTheContract
+Logic inside:
+  - Deposit
+  - Withdraw
+  - Liquidation
 
-- ContractName
-  - DescriptionOfTheContract
+Notes:
+  - Holds ERC20 and ERC721 tokens
 
-- ContractName
-  - DescriptionOfTheContract
+Questions & Answers:
+  - What if we input a wrong address? -> It handles it correctly
 
-# Attack Vectors
+# ContractName
 
--
+Logic inside:
+  - Deposit
+  - Withdraw
+  - Liquidation
 
-# Processes
+Notes:
+  - Holds ERC20 and ERC721 tokens
 
--
-
-# Questions & Answers
-
--
-
-# Analysis Report Notes (Code4rena only)
-
-- Read bot findings and add notes from them
+Questions & Answers:
+  - What if we input a wrong address? -> It handles it correctly
 
 " > Notes.md
 }
