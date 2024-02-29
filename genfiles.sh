@@ -6,28 +6,28 @@ echo "- Generated Notes.md"
 echo -e "# ContractName
 
 Logic inside:
-  - Deposit
-  - Withdraw
-  - Liquidation
+  - 
+  - 
+  - 
 
 Notes:
-  - Holds ERC20 and ERC721 tokens
+  - 
 
 Questions & Answers:
-  - What if we input a wrong address? -> It handles it correctly
+  - What if...
 
 # ContractName
 
 Logic inside:
-  - Deposit
-  - Withdraw
-  - Liquidation
+  - 
+  - 
+  - 
 
 Notes:
-  - Holds ERC20 and ERC721 tokens
+  - 
 
 Questions & Answers:
-  - What if we input a wrong address? -> It handles it correctly
+  - What if...
 
 " > Notes.md
 }
